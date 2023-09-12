@@ -1,3 +1,28 @@
+# Silicon Labs
+*.cproject
+*.project
+*.slcp
+*.slps
+*.d
+*.o
+*.mk
+*.h
+*.hex
+*.ld
+*slsproj
+*.bin
+*.s37
+*.out
+*.axf
+*.map
+*.crc
+*.c
+*.prefs
+*.pintool
+*.projectlinkstore
+*makefile
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
